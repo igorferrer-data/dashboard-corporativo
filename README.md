@@ -8,4 +8,4 @@ Implementação gráfica do dashboard corporativo.
 
 ![dashboard_corporativo](https://github.com/user-attachments/assets/1805cfcd-86e6-4eb2-9133-6a8272f815a3)
 
-Referência: [DIO: Power BI Analyst](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%201)
+Referência: [DIO: Power BI Analyst](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%203)
